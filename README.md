@@ -4,10 +4,10 @@
 
 [![HTML5](https://img.shields.io/badge/-HTML-E2E2E2?style=flat&logo=html5)](https://devdocs.io/html/)
 [![CSS](https://img.shields.io/badge/-CSS-264de4?style=flat&logo=css3)](https://devdocs.io/css/)
-[![Javascript](https://img.shields.io/badge/-JavaScript-2F2F29?style=flat&logo=javascript)](https://devdocs.io/javascript/)
+[![Javascript](https://img.shields.io/badge/-JavaScript-20201A?style=flat&logo=javascript)](https://devdocs.io/javascript/)
 [![React](https://img.shields.io/badge/-React-11324D?style=flat&logo=react)](https://es.reactjs.org/)
-[![Sass](https://img.shields.io/badge/-Sass-black?style=flat-square&logo=sass)](https://devdocs.io/sass/)
-[![Typescript](https://img.shields.io/badge/-Typescript-black?style=flat-square&logo=typescript)](https://devdocs.io/typescript/)
+[![Sass](https://img.shields.io/badge/-Sass-600A35?style=flat&logo=sass)](https://devdocs.io/sass/)
+[![Typescript](https://img.shields.io/badge/-Typescript-032037?style=flat-square&logo=typescript)](https://devdocs.io/typescript/)
 [![Nextjs](https://img.shields.io/badge/-Nextjs-black?style=flat-square&logo=next.js)](https://nextjs.org/)
 [![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=node.js)](https://nodejs.org/es/)
 [![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)](https://www.mongodb.com/)
