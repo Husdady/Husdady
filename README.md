@@ -4,8 +4,8 @@
 
 [![HTML5](https://img.shields.io/badge/-HTML-E2E2E2?style=flat&logo=html5)](https://devdocs.io/html/)
 [![CSS](https://img.shields.io/badge/-CSS-264de4?style=flat&logo=css3)](https://devdocs.io/css/)
-[![Javascript](https://img.shields.io/badge/-JavaScript-2F2F29?style=flat-square&logo=javascript)](https://devdocs.io/javascript/)
-[![React](https://img.shields.io/badge/-React-11324D?style=flat-square&logo=react)](https://es.reactjs.org/)
+[![Javascript](https://img.shields.io/badge/-JavaScript-2F2F29?style=flat&logo=javascript)](https://devdocs.io/javascript/)
+[![React](https://img.shields.io/badge/-React-11324D?style=flat&logo=react)](https://es.reactjs.org/)
 [![Sass](https://img.shields.io/badge/-Sass-black?style=flat-square&logo=sass)](https://devdocs.io/sass/)
 [![Typescript](https://img.shields.io/badge/-Typescript-black?style=flat-square&logo=typescript)](https://devdocs.io/typescript/)
 [![Nextjs](https://img.shields.io/badge/-Nextjs-black?style=flat-square&logo=next.js)](https://nextjs.org/)
