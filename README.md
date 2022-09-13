@@ -1,16 +1,21 @@
-### Hi there 👋
+# Hi 👋 I am Imanol Enrique (Husdady) 
 
-<!--
-**Husdady/Husdady** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ Languages and Tools
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)](https://es.reactjs.org/)
+[![Javascript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)](https://devdocs.io/javascript/)
+[![HTML5](https://img.shields.io/badge/-Html5-black?style=flat-square&logo=html5)](https://devdocs.io/html/)
+[![CSS](https://img.shields.io/badge/-CSS-black?style=flat-square&logo=css3)](https://devdocs.io/css/)
+[![Sass](https://img.shields.io/badge/-Sass-black?style=flat-square&logo=sass)](https://devdocs.io/sass/)
+[![Typescript](https://img.shields.io/badge/-Typescript-black?style=flat-square&logo=typescript)](https://devdocs.io/typescript/)
+[![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=node.js)](https://nodejs.org/es/)
+[![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)](https://www.mongodb.com/)
+[![Vue](https://img.shields.io/badge/-Vue-black?style=flat-square&logo=vue.js)](https://vuejs.org/)
+[![NestJS](https://img.shields.io/badge/-NestJS-black?style=flat-square&logo=nestjs&logoColor=ea2845)](https://nestjs.com/)
+[![Express.js](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)](https://expressjs.com/)
+[![GoogleCloudPlatform](https://img.shields.io/badge/-Google_Cloud_Platform-black?style=flat-square&logo=Google)](https://cloud.google.com/?hl=es)
+[![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)](https://github.com/)
+[![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)](https://getbootstrap.com/)
+[![Ant Design](https://img.shields.io/badge/-AntDesign-black?style=flat-square&logo=ant-design)](https://ant.design/)
+[![Webpack](https://img.shields.io/badge/-Webpack-black?style=flat-square&logo=webpack)](https://webpack.js.org/)
