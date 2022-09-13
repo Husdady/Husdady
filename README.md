@@ -2,10 +2,10 @@
 
 ## 🛠️ Languages and Tools
 
-[![HTML5](https://img.shields.io/badge/-Html5-black?style=flat-square&logo=html5)](https://devdocs.io/html/)
-[![CSS](https://img.shields.io/badge/-CSS-black?style=flat-square&logo=css3)](https://devdocs.io/css/)
+[![HTML5](https://img.shields.io/badge/-HTML-F3F1F5?style=flat&logo=html5)](https://devdocs.io/html/)
+[![CSS](https://img.shields.io/badge/-CSS-264de4?style=flat&logo=css3)](https://devdocs.io/css/)
 [![Javascript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)](https://devdocs.io/javascript/)
-[![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)](https://es.reactjs.org/)
+[![React](https://img.shields.io/badge/-React-11324D?style=flat-square&logo=react)](https://es.reactjs.org/)
 [![Sass](https://img.shields.io/badge/-Sass-black?style=flat-square&logo=sass)](https://devdocs.io/sass/)
 [![Typescript](https://img.shields.io/badge/-Typescript-black?style=flat-square&logo=typescript)](https://devdocs.io/typescript/)
 [![Nextjs](https://img.shields.io/badge/-Nextjs-black?style=flat-square&logo=next.js)](https://nextjs.org/)
