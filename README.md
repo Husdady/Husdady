@@ -2,10 +2,12 @@
 
 ## 🛠️ Languages and Tools
 
-[![HTML5](https://img.shields.io/badge/-HTML-881C01?style=flat&logo=html5)](https://devdocs.io/html/)
-[![CSS](https://img.shields.io/badge/-CSS-264de4?style=flat&logo=css3)](https://devdocs.io/css/)
+[![HTML5](https://img.shields.io/badge/-HTML-EEEEEE?style=flat&logo=html5)](https://devdocs.io/html/)
+[![CSS](https://img.shields.io/badge/-CSS-173459?style=flat&logo=css3&logoColor=264de4)](https://devdocs.io/css/)
 [![Javascript](https://img.shields.io/badge/-JavaScript-20201A?style=flat&logo=javascript)](https://devdocs.io/javascript/)
+[![Jquery](https://img.shields.io/badge/-JavaScript-20201A?style=flat&logo=jquery)](https://devdocs.io/javascript/)
 [![React](https://img.shields.io/badge/-React-11324D?style=flat&logo=react)](https://es.reactjs.org/)
+[![ReactNative](https://img.shields.io/badge/-React%20Native-11324D?style=flat&logo=react&logoColor=red)](https://es.reactjs.org/)
 [![Nextjs](https://img.shields.io/badge/-Nextjs-1A1A14?style=flat&logo=next.js)](https://nextjs.org/)
 [![Typescript](https://img.shields.io/badge/-Typescript-032037?style=flat&logo=typescript)](https://devdocs.io/typescript/)
 [![Nodejs](https://img.shields.io/badge/-Nodejs-303030?style=flat&logo=node.js)](https://nodejs.org/es/)
@@ -14,7 +16,6 @@
 [![NestJS](https://img.shields.io/badge/-NestJS-690B21?style=flat&logo=nestjs&logoColor=ea2845)](https://nestjs.com/)
 [![Sass](https://img.shields.io/badge/-Sass-880A49?style=flat&logo=sass)](https://devdocs.io/sass/)
 [![Vue](https://img.shields.io/badge/-Vue-374F44?style=flat&logo=vue.js)](https://vuejs.org/)
-[![GoogleCloudPlatform](https://img.shields.io/badge/-Google_Cloud_Platform-365EA0?style=flat&logo=GoogleCloud)](https://cloud.google.com/?hl=es)
 [![Git](https://img.shields.io/badge/-Git-20201A?style=flat&logo=git)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/-GitHub-20201A?style=flat&logo=github)](https://github.com/)
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)](https://getbootstrap.com/)
@@ -22,3 +23,7 @@
 [![Material UI](https://img.shields.io/badge/-Material%20UI-black?style=flat&logo=mui)](https://mui.com/)
 [![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-black?style=flat-square&logo=tailwind-css)](https://tailwindcss.com/)
 [![Webpack](https://img.shields.io/badge/-Webpack-black?style=flat-square&logo=webpack)](https://webpack.js.org/)
+[![Strapi](https://img.shields.io/badge/-Strapi-365EA0?style=flat&logo=strapi)](https://cloud.google.com/?hl=es)
+[![Strapi](https://img.shields.io/badge/-Strapi-365EA0?style=flat&logo=graphql)](https://cloud.google.com/?hl=es)
+[![Selenium](https://img.shields.io/badge/-Strapi-365EA0?style=flat&logo=selenium)](https://cloud.google.com/?hl=es)
+[![GoogleCloudPlatform](https://img.shields.io/badge/-Google_Cloud_Platform-365EA0?style=flat&logo=GoogleCloud)](https://cloud.google.com/?hl=es)
