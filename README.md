@@ -1,10 +1,20 @@
 <a href="https://husdady.netlify.com"><img src="https://i.imgur.com/BuzJcS5.jpg" title="Husdady Mena, Frontend Developer" alt="avatar" width="100%" /></a>
 
-# 🍀🍀 About me 🍀🍀
+# 🖤 About me 🖤
 
-#### Hi ✌🏾, I am Frontend Developer 🔥, I started developing applications 3 years ago, my main skill is Javascript 🙈, my interest in the world of development began when i learned HTML 🍎 through the course given by Google: Web Development I and Web Development II.
+#### Hello ✌🏾, I welcome you to my Github profile 👦🏾. I am a young programmer from Peru 🇵🇪, I currently have 2 years of experience ⚡ in Frontend development and I am gaining experience as a Backend developer 🔥 with Node and Express. I am a quiet guy 🤞🏾, many of those who know me consider me an intelligent person 🤓 whom they can trust. I like to listen to varied music 😎 and learn new technologies that enrich my profile 💪🏾
 
-#### I started to expand my knowledge by learning other technologies like React and React native 😋. In my free time I like to develop web and mobile applications 💚 . I am currently learning Nest.js and delving into Node to have a fullstack profile 🤓
+#### I am from Piura, Peru 🇵🇪, in this city, you can find the best food in my country 🤤, it is a place where it is sunny a lot ☀. Some of my hobbies are playing mobile video games 📱, watching mystery series 😳 or going out to play soccer with friends ⚽. Personally, at the beginning that you know me, I can be quiet 🙁, I am respectful and tolerant with my neighbor ☺, as the saying goes:
+
+<p align="center">"Treat others as you would like to be treated"</p>
+
+## ✨ Any things about me
+
+- I use apps for cites as Badoo 🤭
+- I like a lot ceviche ❤ (Peruvian food)
+- I don't like read books, I get bored quickly 😑 
+- I like play League of Legends 😍 (lol) and Wild Rift 😍 (lol mobile)
+- I like Weeknd music 💛, some of my Weeknd favorite songs: Starboy, Take my breath, Heartless, etc
 
 ## 🛠️ Languages and Tools
 
