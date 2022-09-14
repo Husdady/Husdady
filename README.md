@@ -2,10 +2,6 @@
 
 <img id="obito" src="https://i.imgur.com/LdK0w1Y.png" title="Obito" alt="obito" width="100%" height="320px" />
 
-#obito {
-  object-fit: cover;
-}
-
 ### Hi there ✌, I am Frontend Developer, I started developing applications 3 years ago, my main skill is Javascript 🙈, my interest in the world of development began when i learned HTML through the course given by Google: Web Development I and Web Development II. I started to expand my knowledge by learning other technologies like React and React native 😋. In my free time I like to develop web and mobile applications 💚
 
 ## 🛠️ Languages and Tools
@@ -40,3 +36,9 @@
 [![Jenkins](https://img.shields.io/badge/-Jenkins-20201A?style=flat&logo=jenkins)](https://mui.com/)
 [![Jest](https://img.shields.io/badge/-Jest-E71650?style=flat&logo=jest)](https://mui.com/)
 [![GoogleCloudPlatform](https://img.shields.io/badge/-Google_Cloud_Platform-193C76?style=flat&logo=GoogleCloud)](https://cloud.google.com/?hl=es)
+
+<style>
+  #obito {
+    object-fit: cover;
+  }
+</style>
