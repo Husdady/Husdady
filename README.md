@@ -2,7 +2,7 @@
 
 ## 🛠️ Languages and Tools
 
-[![HTML5](https://img.shields.io/badge/-HTML-ECECEC?style=flat&logo=html5)](https://devdocs.io/html/)
+[![HTML5](https://img.shields.io/badge/-HTML-white?style=flat&logo=html5)](https://devdocs.io/html/)
 [![CSS](https://img.shields.io/badge/-CSS-264de4?style=flat&logo=css3)](https://devdocs.io/css/)
 [![Javascript](https://img.shields.io/badge/-JavaScript-20201A?style=flat&logo=javascript)](https://devdocs.io/javascript/)
 [![React](https://img.shields.io/badge/-React-11324D?style=flat&logo=react)](https://es.reactjs.org/)
@@ -20,10 +20,10 @@
 [![Git](https://img.shields.io/badge/-Git-20201A?style=flat&logo=git)](https://git-scm.com/)
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-370E74?style=flat&logo=bootstrap)](https://getbootstrap.com/)
 [![GitHub](https://img.shields.io/badge/-GitHub-20201A?style=flat&logo=github)](https://github.com/)
-[![Ant Design](https://img.shields.io/badge/-AntDesign-ECECEC?style=flat&logo=ant-design&logoColor=black)](https://ant.design/)
+[![Ant Design](https://img.shields.io/badge/-AntDesign-white?style=flat&logo=ant-design&logoColor=black)](https://ant.design/)
 [![Strapi](https://img.shields.io/badge/-Strapi-463593?style=flat&logo=strapi)](https://cloud.google.com/?hl=es)
-[![Selenium IDE](https://img.shields.io/badge/-Selenium%20IDE-F3F1F1?style=flat&logo=selenium)](https://cloud.google.com/?hl=es)
+[![Selenium IDE](https://img.shields.io/badge/-Selenium%20IDE-white?style=flat&logo=selenium)](https://cloud.google.com/?hl=es)
 [![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-20201A?style=flat&logo=tailwind-css)](https://tailwindcss.com/)
 [![Webpack](https://img.shields.io/badge/-Webpack-20201A?style=flat&logo=webpack)](https://webpack.js.org/)
-[![Material UI](https://img.shields.io/badge/-Material%20UI-ECECEC?style=flat&logo=mui)](https://mui.com/)
+[![Material UI](https://img.shields.io/badge/-Material%20UI-white?style=flat&logo=mui)](https://mui.com/)
 [![GoogleCloudPlatform](https://img.shields.io/badge/-Google_Cloud_Platform-193C76?style=flat&logo=GoogleCloud)](https://cloud.google.com/?hl=es)
