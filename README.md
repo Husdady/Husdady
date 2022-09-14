@@ -29,6 +29,6 @@
 [![Python](https://img.shields.io/badge/-Python-FFD43B?style=flat&logo=python)](https://mui.com/)
 [![Prettier](https://img.shields.io/badge/-Prettier-20201A?style=flat&logo=prettier)](https://mui.com/)
 [![ESLint](https://img.shields.io/badge/-ESLint-7900F8?style=flat&logo=eslint)](https://mui.com/)
-[![ESLint](https://img.shields.io/badge/-Jenkins-20201A?style=flat&logo=jenkins)](https://mui.com/)
-[![ESLint](https://img.shields.io/badge/-Jest-E71650?style=flat&logo=jest)](https://mui.com/)
+[![Jenkins](https://img.shields.io/badge/-Jenkins-F3F1F1?style=flat&logo=jenkins)](https://mui.com/)
+[![Jest](https://img.shields.io/badge/-Jest-E71650?style=flat&logo=jest)](https://mui.com/)
 [![GoogleCloudPlatform](https://img.shields.io/badge/-Google_Cloud_Platform-193C76?style=flat&logo=GoogleCloud)](https://cloud.google.com/?hl=es)
