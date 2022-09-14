@@ -1,6 +1,6 @@
-<p align="center"><a href="https://husdady.netlify.com"><img src="https://i.imgur.com/wxM426F.jpg" title="Husdady Mena, Frontend Developer" alt="avatar" width="50%" /></a></p>
+<p align="center"><a href="https://husdady.netlify.com"><img src="https://i.imgur.com/wxM426F.jpg" title="Husdady Mena, Frontend Developer" alt="avatar" width="80%" /></a></p>
 
-<p align="center"><img src="https://i.imgur.com/7tEjsm5.gif" title="Itachi Uchicha" alt="itachi" width="80%" /></p>
+<p align="center"><img src="https://i.imgur.com/7tEjsm5.gif" title="Itachi Uchicha" alt="itachi" width="90%" /></p>
 
 ### Hi there ✌, I am Frontend Developer 🔥, I started developing applications 3 years ago, my main skill is Javascript 🙈, my interest in the world of development began when i learned HTML 🍎 through the course given by Google: Web Development I and Web Development II.
 
