@@ -39,4 +39,4 @@ I started to expand my knowledge by learning other technologies like React and R
 [![Jest](https://img.shields.io/badge/-Jest-E71650?style=flat&logo=jest)](https://mui.com/)
 [![GoogleCloudPlatform](https://img.shields.io/badge/-Google_Cloud_Platform-193C76?style=flat&logo=GoogleCloud)](https://cloud.google.com/?hl=es)
 
-[![Pain Akatsuki](assets/pain.gif)]
+<img src="assets/pain.gif" title="Pain" alt="pain" width="100%" />
