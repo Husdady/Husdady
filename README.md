@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/DwBp7YQ.jpg" title="Husdady Mena" alt="avatar" width="100%" height="50%" />
+<img src="https://i.imgur.com/wxM426F.jpg" title="Husdady Mena" alt="avatar" width="100%" />
 
 <img src="https://i.imgur.com/7tEjsm5.gif" title="Itachi Uchicha" alt="itachi" width="100%" height="100%" />
 
