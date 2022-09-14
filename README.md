@@ -39,4 +39,4 @@ I started to expand my knowledge by learning other technologies like React and R
 [![Jest](https://img.shields.io/badge/-Jest-E71650?style=flat&logo=jest)](https://mui.com/)
 [![GoogleCloudPlatform](https://img.shields.io/badge/-Google_Cloud_Platform-193C76?style=flat&logo=GoogleCloud)](https://cloud.google.com/?hl=es)
 
-<img src="https://i.imgur.com/7tEjsm5.gif" title="Itachi Uchicha" alt="itachi" width="100%" />
+[![Pain Akatsuki](assets/pain.gif)]
