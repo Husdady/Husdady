@@ -1,8 +1,10 @@
-# Hi 👋🏾 I am Imanol Enrique (Husdady)
+# Husdady Mena 👋🏾
 
 <img src="https://i.pinimg.com/originals/79/82/30/7982300b00647884e51fb98f77942478.gif" title="Itachi Uchicha" alt="itachi" width="100%" height="350px" />
 
-### Hi there ✌, I am Frontend Developer, I started developing applications 3 years ago, my main skill is Javascript 🙈, my interest in the world of development began when i learned HTML through the course given by Google: Web Development I and Web Development II. I started to expand my knowledge by learning other technologies like React and React native 😋. In my free time I like to develop web and mobile applications 💚
+### Hi there ✌, I am Frontend Developer, I started developing applications 3 years ago, my main skill is Javascript 🙈, my interest in the world of development began when i learned HTML through the course given by Google: Web Development I and Web Development II.
+
+### I started to expand my knowledge by learning other technologies like React and React native 😋. In my free time I like to develop web and mobile applications 💚
 
 ## 🛠️ Languages and Tools
 
