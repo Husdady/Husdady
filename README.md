@@ -8,7 +8,7 @@
 
 <br />
 
-<div align="center">👉🏾 <q><i><b>Treat others as you would like to be treated</b></i></q> 👈🏾</div>
+<div align="center">🧡 <q><i><b>Treat others as you would like to be treated</b></i></q> 🧡</div>
 
 <br />
 
