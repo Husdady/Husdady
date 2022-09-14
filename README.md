@@ -1,6 +1,6 @@
 # Hi 👋🏾 I am Imanol Enrique (Husdady)
 
-<img id="obito" src="https://i.imgur.com/LdK0w1Y.png" title="Obito" alt="obito" width="100%" height="320px" />
+<img id="obito" src="https://fondosmil.com/fondo/26850.jpg" title="Obito" alt="obito" width="100%" height="320px" />
 
 ### Hi there ✌, I am Frontend Developer, I started developing applications 3 years ago, my main skill is Javascript 🙈, my interest in the world of development began when i learned HTML through the course given by Google: Web Development I and Web Development II. I started to expand my knowledge by learning other technologies like React and React native 😋. In my free time I like to develop web and mobile applications 💚
 
@@ -36,15 +36,3 @@
 [![Jenkins](https://img.shields.io/badge/-Jenkins-20201A?style=flat&logo=jenkins)](https://mui.com/)
 [![Jest](https://img.shields.io/badge/-Jest-E71650?style=flat&logo=jest)](https://mui.com/)
 [![GoogleCloudPlatform](https://img.shields.io/badge/-Google_Cloud_Platform-193C76?style=flat&logo=GoogleCloud)](https://cloud.google.com/?hl=es)
-
-<svg fill="none" viewBox="0 0 800 400" width="800" height="400" xmlns="http://www.w3.org/2000/svg">
-  <foreignObject width="100%" height="100%">
-    <div xmlns="http://www.w3.org/1999/xhtml">
-      <style>
-        #obito {
-          object-fit: cover;
-        }
-      </style>
-    </div>
-  </foreignObject>
-</svg>
