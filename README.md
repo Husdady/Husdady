@@ -1,8 +1,12 @@
 # Hi 👋🏾 I am Imanol Enrique (Husdady) 
 
-[<img src="https://i.imgur.com/LdK0w1Y.png" title="obito" alt="obito" width="100%" height="320px" style="object-fit:cover;" />
+<img id="obito" src="https://i.imgur.com/LdK0w1Y.png" title="Obito" alt="obito" width="100%" height="320px" />
 
-#### Hi there ✌, I am Frontend Developer, I started developing applications 3 years ago, my main skill is Javascript 🙈, my interest in the world of development began when i learned HTML through the course given by Google: Web Development I and Web Development II. I started to expand my knowledge by learning other technologies like React and React native 😋. In my free time I like to develop web and mobile applications 💚
+#obito {
+  object-fit: cover;
+}
+
+### Hi there ✌, I am Frontend Developer, I started developing applications 3 years ago, my main skill is Javascript 🙈, my interest in the world of development began when i learned HTML through the course given by Google: Web Development I and Web Development II. I started to expand my knowledge by learning other technologies like React and React native 😋. In my free time I like to develop web and mobile applications 💚
 
 ## 🛠️ Languages and Tools
 
