@@ -1,6 +1,6 @@
 # Hi 👋 I am Imanol Enrique (Husdady) 
 
-[![avatar](https://imgur.com/LdK0w1Y)](https://github.com/Husdady)
+[![avatar](https://i.imgur.com/LdK0w1Y.png)](https://github.com/Husdady)
 
 ## 🛠️ Languages and Tools
 
