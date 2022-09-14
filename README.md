@@ -1,6 +1,6 @@
 # Hi 👋 I am Imanol Enrique (Husdady) 
 
-<img src="https://i.imgur.com/LdK0w1Y.png" alt="obito" width="100%" height="320px" style="objectfit=cover" />
+<img src="https://i.imgur.com/LdK0w1Y.png" alt="obito" width="100%" height="320px" style="object-fit: cover;" />
 
 ## 🛠️ Languages and Tools
 
