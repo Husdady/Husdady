@@ -1,8 +1,8 @@
 <a href="https://husdady.netlify.com"><img src="https://i.imgur.com/BuzJcS5.jpg" title="Husdady Mena, Frontend Developer" alt="avatar" width="100%" /></a>
 
-## About me 👇🏾
+# About me 👇🏾
 
-Hi there ✌🏾, I am Frontend Developer 🔥, I started developing applications 3 years ago, my main skill is Javascript 🙈, my interest in the world of development began when i learned HTML 🍎 through the course given by Google: Web Development I and Web Development II.
+Hi ✌🏾, I am Frontend Developer 🔥, I started developing applications 3 years ago, my main skill is Javascript 🙈, my interest in the world of development began when i learned HTML 🍎 through the course given by Google: Web Development I and Web Development II.
 
 I started to expand my knowledge by learning other technologies like React and React native 😋. In my free time I like to develop web and mobile applications 💚 . I am currently learning Nest.js and delving into Node to have a fullstack profile 🤓
 
@@ -39,4 +39,4 @@ I started to expand my knowledge by learning other technologies like React and R
 [![Jest](https://img.shields.io/badge/-Jest-E71650?style=flat&logo=jest)](https://mui.com/)
 [![GoogleCloudPlatform](https://img.shields.io/badge/-Google_Cloud_Platform-193C76?style=flat&logo=GoogleCloud)](https://cloud.google.com/?hl=es)
 
-<img src="https://i.imgur.com/7tEjsm5.gif" title="Itachi Uchicha" alt="itachi" width="100%" height="200" />
+<img src="https://i.imgur.com/7tEjsm5.gif" title="Itachi Uchicha" alt="itachi" width="100%" />
