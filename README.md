@@ -2,11 +2,13 @@
 
 # 🖤 About me 🖤
 
-#### Hello ✌🏾, I welcome you to my Github profile 👦🏾. I am a young programmer from Peru 🇵🇪, I currently have 2 years of experience ⚡ in Frontend development and I am gaining experience as a Backend developer 🔥 with Node and Express. I am a quiet guy 🤞🏾, many of those who know me consider me an intelligent person 🤓 whom they can trust. I like to listen to varied music 😎 and learn new technologies that enrich my profile 💪🏾
+#### Hello ✌🏾, I welcome you to my Github profile 👦🏾. I am a young programmer from Peru ❤, I currently have 2 years of experience ⚡ in Frontend development and I am gaining experience as a Backend developer 🔥 with Node and Express. I am a quiet guy 🤞🏾, many of those who know me consider me an intelligent person 🤓 whom they can trust. I like to listen to varied music 😎 and learn new technologies that enrich my profile 💪🏾
 
-#### I am from Piura, Peru 🇵🇪, in this city, you can find the best food in my country 🤤, it is a place where it is sunny a lot ☀. Some of my hobbies are playing mobile video games 📱, watching mystery series 😳 or going out to play soccer with friends ⚽. Personally, at the beginning that you know me, I can be quiet 🙁, I am respectful and tolerant with my neighbor ☺, as the saying goes:
+#### I am from Piura, Peru ❤, in this city, you can find the best food in my country 🤤, it is a place where it is sunny a lot ☀. Some of my hobbies are playing mobile video games 📱, watching mystery series 😳 or going out to play soccer with friends ⚽. Personally, at the beginning that you know me, I can be quiet 🙁, I am respectful and tolerant with my neighbor ☺, as the saying goes:
 
-<p align="center">"Treat others as you would like to be treated"</p>
+<br />
+
+<div align="center"><h2>"Treat others as you would like to be treated"</h2></div>
 
 ## ✨ Any things about me
 
