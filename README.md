@@ -26,4 +26,5 @@
 [![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-20201A?style=flat&logo=tailwind-css)](https://tailwindcss.com/)
 [![Webpack](https://img.shields.io/badge/-Webpack-20201A?style=flat&logo=webpack)](https://webpack.js.org/)
 [![Material UI](https://img.shields.io/badge/-Material%20UI-F3F1F1?style=flat&logo=mui)](https://mui.com/)
+[![Material UI](https://img.shields.io/badge/-Python-FFD43B?style=flat&logo=python)](https://mui.com/)
 [![GoogleCloudPlatform](https://img.shields.io/badge/-Google_Cloud_Platform-193C76?style=flat&logo=GoogleCloud)](https://cloud.google.com/?hl=es)
