@@ -1,4 +1,4 @@
-<p align="center"><a href="https://husdady.netlify.com"><img src="https://i.imgur.com/wxM426F.jpg" title="Husdady Mena, Frontend Developer" alt="avatar" width="60%" /></a></p>
+<p align="center"><a href="https://husdady.netlify.com"><img src="https://i.imgur.com/BuzJcS5.jpg" title="Husdady Mena, Frontend Developer" alt="avatar" width="60%" /></a></p>
 
 <p align="center"><img src="https://i.imgur.com/7tEjsm5.gif" title="Itachi Uchicha" alt="itachi" width="80%" /></p>
 
