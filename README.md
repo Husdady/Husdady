@@ -1,6 +1,6 @@
 # Hi 👋🏾 I am Imanol Enrique (Husdady)
 
-<img id="obito" src="https://c.tenor.com/q2nM7sFrdgYAAAAC/naruto-shippuuden.gif" title="Obito" alt="obito" width="100%" height="320px" />
+<img id="obito" src="https://c.tenor.com/q2nM7sFrdgYAAAAC/naruto-shippuuden.gif" title="Obito" alt="obito" width="100%" height="400px" />
 
 ### Hi there ✌, I am Frontend Developer, I started developing applications 3 years ago, my main skill is Javascript 🙈, my interest in the world of development began when i learned HTML through the course given by Google: Web Development I and Web Development II. I started to expand my knowledge by learning other technologies like React and React native 😋. In my free time I like to develop web and mobile applications 💚
 
