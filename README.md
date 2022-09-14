@@ -1,5 +1,7 @@
 # Hi 👋 I am Imanol Enrique (Husdady) 
 
+[![avatar](https://imgur.com/LdK0w1Y)](https://github.com/Husdady)
+
 ## 🛠️ Languages and Tools
 
 [![HTML5](https://img.shields.io/badge/-HTML-F3F1F1?style=flat&logo=html5)](https://devdocs.io/html/)
