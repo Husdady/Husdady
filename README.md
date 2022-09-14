@@ -6,9 +6,7 @@
 
 #### I am from Piura, Peru ❤, in this city, you can find the best food in my country 🤤, it is a place where it is sunny a lot ☀. Some of my hobbies are playing mobile video games 📱, watching mystery series 😳 or going out to play soccer with friends ⚽. Personally, at the beginning that you know me, I can be quiet 🙁, I am respectful and tolerant with my neighbor ☺, as the saying goes:
 
-<br />
-
-<div align="center"><h2>"Treat others as you would like to be treated"</h2></div>
+<div align="center"><h2><q><i>Treat others as you would like to be treated</i></q></h2></div>
 
 ## ✨ Any things about me
 
