@@ -2,9 +2,9 @@
 
 # 🖤 About me 🖤
 
-#### Hello ✌🏾, I welcome you to my Github profile 👦🏾. I am a young programmer from Peru ❤, I currently have 2 years of experience ⚡ in Frontend development and I am gaining experience as a Backend developer 🔥 with Node and Express. I am a quiet guy 🤞🏾, many of those who know me consider me an intelligent person 🤓 whom they can trust. I like to listen to varied music 😎 and learn new technologies that enrich my profile 💪🏾
+<b>Hello ✌🏾, I welcome you to my Github profile 👦🏾. I am a young programmer from Peru ❤, I currently have 2 years of experience ⚡ in Frontend development and I am gaining experience as a Backend developer 🔥 with Node and Express. I am a quiet guy 🤞🏾, many of those who know me consider me an intelligent person 🤓 whom they can trust. I like to listen to varied music 😎 and learn new technologies that enrich my profile 💪🏾</b>
 
-#### I am from Piura, Peru ❤, in this city, you can find the best food in my country 🤤, it is a place where it is sunny a lot ☀. Some of my hobbies are playing mobile video games 📱, watching mystery series 😳 or going out to play soccer with friends ⚽. Personally, at the beginning that you know me, I can be quiet 🙁, I am respectful and tolerant with my neighbor ☺, as the saying goes:
+<b>I am from Piura, Peru ❤, in this city, you can find the best food in my country 🤤, it is a place where it is sunny a lot ☀. Some of my hobbies are playing mobile video games 📱, watching mystery series 😳 or going out to play soccer with friends ⚽. Personally, at the beginning that you know me, I can be quiet 🙁, I am respectful and tolerant with my neighbor ☺, as the saying goes:</b>
 
 <br />
 
@@ -36,7 +36,7 @@
 [![Jquery](https://img.shields.io/badge/-Jquery-0769ad?style=flat&logo=jquery)](https://devdocs.io/javascript/)
 [![Sass](https://img.shields.io/badge/-Sass-880A49?style=flat&logo=sass)](https://devdocs.io/sass/)
 [![GraphQL](https://img.shields.io/badge/-GraphQL-C31088?style=flat&logo=graphql)](https://cloud.google.com/?hl=es)
-[![Vue](https://img.shields.io/badge/-Vue-374F44?style=flat&logo=vue.js)](https://vuejs.org/)
+[![Vuejs](https://img.shields.io/badge/-Vue-374F44?style=flat&logo=vue.js)](https://vuejs.org/)
 [![Git](https://img.shields.io/badge/-Git-20201A?style=flat&logo=git)](https://git-scm.com/)
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-370E74?style=flat&logo=bootstrap)](https://getbootstrap.com/)
 [![GitHub](https://img.shields.io/badge/-GitHub-20201A?style=flat&logo=github)](https://github.com/)
