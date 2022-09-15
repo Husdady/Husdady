@@ -36,7 +36,7 @@
 [![Jquery](https://img.shields.io/badge/-Jquery-0769ad?style=flat&logo=jquery)](https://devdocs.io/javascript/)
 [![Sass](https://img.shields.io/badge/-Sass-880A49?style=flat&logo=sass)](https://devdocs.io/sass/)
 [![GraphQL](https://img.shields.io/badge/-GraphQL-C31088?style=flat&logo=graphql)](https://cloud.google.com/?hl=es)
-[![Vuejs](https://img.shields.io/badge/-Vue-374F44?style=flat&logo=vue.js)](https://vuejs.org/)
+[![Vuejs](https://img.shields.io/badge/-Vuejs-374F44?style=flat&logo=vue.js)](https://vuejs.org/)
 [![Git](https://img.shields.io/badge/-Git-20201A?style=flat&logo=git)](https://git-scm.com/)
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-370E74?style=flat&logo=bootstrap)](https://getbootstrap.com/)
 [![GitHub](https://img.shields.io/badge/-GitHub-20201A?style=flat&logo=github)](https://github.com/)
